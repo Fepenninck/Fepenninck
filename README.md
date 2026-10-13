@@ -1,10 +1,10 @@
 <div align="center">
 
-# Luís Felipe Penninck dos Santos
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a2e14,100:00ff41&height=190&section=header&text=Lu%C3%ADs%20Felipe%20Penninck&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20Pentest&descSize=16&descColor=c9d1d9&descAlignY=60" width="100%" />
 
-**Estudante de Engenharia de Software | Cybersecurity | Pentest**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=45&lines=%5Bfepenninck%40kali%5D%23+whoami;Luis+Felipe+Penninck+dos+Santos;%5Bfepenninck%40kali%5D%23+cat+%2Fetc%2Fobjetivo;Pentest+%7C+Cybersecurity+%7C+Hack+etico;%5Bfepenninck%40kali%5D%23+echo+%24STATUS;Aberto+a+oportunidades+em+Cybersecurity" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=00FF41&background=00000000&center=true&vCenter=true&width=620&height=30&lines=Seguranca+ofensiva+com+etica+e+responsabilidade;Em+busca+da+primeira+oportunidade+em+Cybersecurity" alt="typing" />
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/felipe-penninck-92a07b362/)
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:penninck274@gmail.com)
@@ -13,19 +13,30 @@
 
 </div>
 
----
+<br>
 
-## Sobre
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fsobre+%24+cat+sobre.md" alt="~/sobre $ cat sobre.md" />
 
-Tenho 25 anos e sou estudante de Engenharia de Software, com interesse e dedicação à área de Cybersecurity. Estudo e pratico de forma contínua, sempre atuando com ética e responsabilidade.
+```text
++------------------------------------------------------------+
+|  NOME      : Luis Felipe Penninck dos Santos               |
+|  IDADE     : 25                                            |
+|  FORMACAO  : Engenharia de Software                        |
+|  FOCO      : Cybersecurity > Pentest                       |
+|  STATUS    : [ONLINE] buscando a primeira oportunidade     |
+|  CONDUTA   : etica e responsabilidade                      |
++------------------------------------------------------------+
+```
+
+Estudante de Engenharia de Software com interesse e dedicação à área de Cybersecurity. Estudo e pratico de forma contínua, sempre atuando com ética e responsabilidade.
 
 A formação me dá base sólida em lógica, redes, sistemas e desenvolvimento de software. Entender como aplicações são construídas me ajuda a identificar como podem falhar e como protegê-las.
 
 Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na área para contribuir com dedicação, evoluir profissionalmente e aprender com profissionais experientes.
 
----
+<br>
 
-## Áreas de estudo
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Festudos+%24+ls+-la+areas%2F" alt="~/estudos $ ls -la areas/" />
 
 | Área | Tópicos |
 | :--- | :--- |
@@ -35,11 +46,9 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 | Sistemas | Linux, administração via terminal, permissões e hardening |
 | Desenvolvimento | Python, Bash, lógica de programação e engenharia de software |
 
----
+<br>
 
-## Ferramentas
-
-<div align="left">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fferramentas+%24+.%2Fskills.sh+--list" alt="~/ferramentas $ ./skills.sh --list" />
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41)
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00ff41)
@@ -50,20 +59,20 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff41)
 
-</div>
+<br>
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fprincipios+%24+cat+conduta.txt" alt="~/principios $ cat conduta.txt" />
 
-## Princípios
+```diff
++ Testes apenas em ambientes autorizados (laboratorios, CTFs, plataformas)
++ Divulgacao responsavel de qualquer vulnerabilidade encontrada
++ Documentacao clara: o que foi feito, como foi feito, como corrigir
++ Aprendizado continuo e compartilhamento de conhecimento
+```
 
-- Testes apenas em ambientes autorizados: laboratórios, CTFs e plataformas de treinamento.
-- Divulgação responsável de qualquer vulnerabilidade encontrada.
-- Documentação clara do que foi feito, como foi feito e como corrigir.
-- Aprendizado contínuo e compartilhamento de conhecimento.
+<br>
 
----
-
-## Metas
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fmetas+%24+tail+-f+roadmap.log" alt="~/metas $ tail -f roadmap.log" />
 
 | Meta | Status |
 | :--- | :--- |
@@ -72,21 +81,21 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 | Certificação de entrada em pentest (ex.: eJPT) | Planejado |
 | Primeira oportunidade profissional em Cybersecurity | Em busca |
 
----
+<br>
 
-## GitHub
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fgithub+%24+git+log+--stat" alt="~/github $ git log --stat" />
 
 <div align="center">
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fepenninck&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fepenninck&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
 
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fepenninck&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
 
----
+<br>
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=650&height=30&lines=%22Conhecer+o+ataque+e+a+melhor+forma+de+construir+a+defesa.%22;%5Bfepenninck%40kali%5D%23+exit" alt="quote" />
 
-<sub>Aberto a conversas, mentorias e oportunidades. Entre em contato.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:0a2e14,100:000000&height=100&section=footer" width="100%" />
 
 </div>

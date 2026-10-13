@@ -90,12 +90,6 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=Fepenninck&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fepenninck&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fepenninck&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true&title_color=00ff41" width="100%" />
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=4000&pause=1500&color=00FF41&background=00000000&center=true&vCenter=true&width=650&height=30&lines=%22Conhecer+o+ataque+e+a+melhor+forma+de+construir+a+defesa.%22;%5Bfepenninck%40kali%5D%23+exit" alt="quote" />
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:0a2e14,100:000000&height=100&section=footer" width="100%" />
 
 </div>

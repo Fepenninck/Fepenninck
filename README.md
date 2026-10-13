@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a2e14,100:00ff41&height=190&section=header&text=Lu%C3%ADs%20Felipe%20Penninck&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=40&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20Pentest&descSize=16&descColor=c9d1d9&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=170&section=header&text=Lu%C3%ADs%20Felipe%20Penninck&fontSize=40&fontColor=00ff41&animation=fadeIn&fontAlignY=42&desc=Software%20Engineering%20%7C%20Cybersecurity%20%7C%20Pentest&descSize=15&descColor=8b949e&descAlignY=66&stroke=0b3d1a&strokeWidth=2" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=00FF41&background=00000000&center=true&vCenter=true&width=700&height=45&lines=%5Bfepenninck%40kali%5D%23+whoami;Luis+Felipe+Penninck+dos+Santos;%5Bfepenninck%40kali%5D%23+cat+%2Fetc%2Fobjetivo;Pentest+%7C+Cybersecurity+%7C+Hack+etico;%5Bfepenninck%40kali%5D%23+echo+%24STATUS;Aberto+a+oportunidades+em+Cybersecurity" alt="typing" />
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/felipe-penninck-92a07b362/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:penninck274@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/penninck274)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://profile.hackthebox.com/profile/019fecc7-a415-737a-b4c1-807b5b12df4f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/felipe-penninck-92a07b362/)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:penninck274@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-000000?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/penninck274)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-000000?style=for-the-badge&logo=hackthebox&logoColor=00ff41)](https://profile.hackthebox.com/profile/019fecc7-a415-737a-b4c1-807b5b12df4f)
 
 </div>
 
@@ -50,14 +50,14 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2200&pause=800&color=00FF41&background=00000000&width=520&height=30&lines=%7E%2Fferramentas+%24+.%2Fskills.sh+--list" alt="~/ferramentas $ ./skills.sh --list" />
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=00ff41)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=00ff41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=00ff41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=00ff41)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=00ff41)
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00ff41)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=00ff41)
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=00ff41)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=flat-square&logo=kalilinux&logoColor=00ff41)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=00ff41)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-000000?style=flat-square&logo=burpsuite&logoColor=00ff41)
+![Wireshark](https://img.shields.io/badge/Wireshark-000000?style=flat-square&logo=wireshark&logoColor=00ff41)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=00ff41)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00ff41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnubash&logoColor=00ff41)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00ff41)
 
 <br>
 
@@ -87,9 +87,9 @@ Meu objetivo é trabalhar com **Pentest**. Busco minha primeira oportunidade na 
 
 <div align="center">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Fepenninck&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fepenninck&layout=compact&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Fepenninck&show_icons=true&theme=dark&bg_color=000000&hide_border=true&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fepenninck&layout=compact&theme=dark&bg_color=000000&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:0a2e14,100:000000&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=50&section=footer&stroke=0b3d1a&strokeWidth=2" width="100%" />
 
 </div>
